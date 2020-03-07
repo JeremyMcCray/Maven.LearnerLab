@@ -24,4 +24,5 @@ public class TestStudent {
         Double expected = 100.;
         Assert.assertEquals(actual,expected);
     }
+
 }
